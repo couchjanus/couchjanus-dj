@@ -26,8 +26,8 @@ SECRET_KEY = '0hr@k8l*=$=_+pi1u*(1575=6n9lp!$mabg@#kx@ngfxx&)8%e'
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
 
-ALLOWED_HOSTS = ['couchdj.herokuapp.com']
-
+# ALLOWED_HOSTS = ['couchdj.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
