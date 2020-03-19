@@ -1,1 +1,1 @@
-web: gunicorn couchdj:app --log-file -
+web: gunicorn mycompany:app --log-file -
